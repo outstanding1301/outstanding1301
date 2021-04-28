@@ -3,5 +3,4 @@
 
 <img src="https://media.giphy.com/media/69v0ObT7bUgJWxepJt/giphy.gif" alt="비밀입니다.">
 
-🚀 major in CE at KPU
-### [🚀 about me](https://outstanding1301.github.io/about)
+### [🚀 자세히 보기](https://outstanding1301.github.io/about)
